@@ -1,0 +1,49 @@
+{
+  "manga_id": "m-drg-reg-001",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "멸룡왕의 절대전생 | Dragonslayer Class Regression",
+  "status": "Ongoing",
+  "author": "Hectopascal",
+  "artist": "Hectopascal",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Zeke Draker, keturunan langsung pertama keluarga Dragon Slayer yang gagal 'Awakening'. Memiliki bakat sebagai Healer alih-alih Swordsman, ia dibuang oleh keluarganya. Berjuang mati-matian, Zeke menemui akhir yang tragis. Namun di saat kematiannya, jiwa Elder Dragon memberinya kekuatan yang dijanjikan. Ia kembali ke 20 tahun yang lalu untuk mengubah takdirnya.",
+  "cover_url": "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/covers/m-drg-reg-001.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The Awakening of a Healer",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-001/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Back to the Past",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-002/003.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "The First True Encounter",
+      "images": [
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-003/001.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-003/002.jpg",
+        "https://raw.githubusercontent.com/username/MonstaComic-Assets/main/m-drg-reg-001/ch-003/003.jpg"
+      ]
+    }
+  ]
+}
